@@ -11,7 +11,7 @@
 
 <header style="background-color : #FFE4C4; color: black;
 font-family: verdana; font-size: 20px; text-align : left; 
-border-style: solid; border-width: 2px;  border-spacing: 1px;">
+border-style: solid; border-width: 1px;  border-spacing: 1px;">
 
 <p style="margin-left:10px;"><strong>Nom :</strong> SEVE</p>
 <p style="margin-left:10px;"><strong>Prénom :</strong> Dominique</p>
@@ -19,7 +19,7 @@ border-style: solid; border-width: 2px;  border-spacing: 1px;">
 </header>
 <main style="background-color : #FFF8DC; color: black;
 font-family: verdana; font-size: 15px; text-align : left;
-border-style: solid; border-width: 2px; border-spacing: 1px;">
+border-style: solid; border-width: 1px; border-spacing: 1px;">
 <p></p>
 <h3 style="margin-left:10px;"> Manager de proximité direction de la relation client</h3>
 <ul>
@@ -57,7 +57,7 @@ border-style: solid; border-width: 2px; border-spacing: 1px;">
 </main>
 <footer style="background-color : #FFE4C4;color: black;
 font-family: verdana;font-size: 20px; text-align : left;
-border-style: solid; border-width: 2px; border-spacing: 1px;">
+border-style: solid; border-width: 1px; border-spacing: 1px;">
 <p style="margin-left:10px;"><strong>Adresse :</strong> 64 rue philippe de girard 75018 Paris</p>
 <p style="margin-left:10px;"><strong>Numéro de téléphone :</strong> 06 26 09 01 02</p>
 <p style="margin-left:10px;"><strong>Adresse mail :</strong> dominique.seve@laposte.net</p>
