@@ -5,7 +5,8 @@
 <meta charset="utf-8">
 <title>Page Title</title>
 <style>
-h3,p {margin-left:10px;}
+h3 {margin-left:10px;}
+p {margin-left:10px;}
 </style>
 </head>
 <body>
