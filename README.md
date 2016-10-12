@@ -3,8 +3,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Page Title</title>
-<!-- dommage le format ne prend pas style 
+<!-- à priori inutile <title>Page Title</title> -->
+<!-- dommage le format ne prend pas le style 
 <style>h3 p {margin-left:10px;}</style> dans le head -->
 </head>
 <body>
