@@ -1,5 +1,5 @@
 # projet-cv
-<!DOCTYPE html>
+<!-- à priori inutile <!DOCTYPE html> -->
 <html>
 <head>
 <meta charset="utf-8">
