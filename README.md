@@ -21,7 +21,7 @@ border-style: solid; border-width: 1px;  border-spacing: 1px;">
 font-family: verdana; font-size: 15px; text-align : left;
 border-style: solid; border-width: 1px; border-spacing: 1px;">
 <p></p>
-<h3 style="margin-left:10px;"> Manager de proximité direction de la relation client</h3>
+<h3 style="margin-left:10px;"> Manager de proximité à la direction de la relation client à Paris</h3>
 <ul>
 <li>manager des équipes de conseillers relation clientèle</li>
 <li>participer aux évolutions du service</li>
